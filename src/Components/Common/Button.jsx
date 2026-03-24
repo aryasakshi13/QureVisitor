@@ -8,7 +8,7 @@ const Button = ({
   return (
     <button
       className={`
-        relative px-6 py-3 rounded-full overflow-hidden group font-semibold transition-all duration-300
+        relative px-6 py-4 px-4 rounded-full overflow-hidden group font-semibold transition-all duration-300
         ${fullWidth ? "w-full" : "w-auto"}
         
         ${

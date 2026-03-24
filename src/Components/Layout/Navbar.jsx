@@ -14,7 +14,7 @@ const Navbar = () =>{
                         <li className="hover:text-orange-600 cursor-pointer font-bold">Pricing </li>
                         <li className="hover:text-orange-600 cursor-pointer font-bold">Contact</li>
                     </ul>
-                    <button className="bg-orange-600 rounded-lg px-4 py-2">Login</button>
+                    <button className="bg-orange-600 rounded-lg px-4 py-2">➡️Get a Request</button>
 
 
                 </div>
