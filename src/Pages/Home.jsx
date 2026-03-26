@@ -7,6 +7,8 @@ import PremiumSupport from "../Sections/PremiumSupport";
 import HowItWorks from "../Sections/HowItsWorks";
 import PricingPlans from "../Sections/PricingPlans";
 import FAQ from "../Sections/FAQ";
+import CTA from "../Sections/CTA";
+import Footer from "../Components/Layout/Footer";
 
 
 const Home = () => {
@@ -21,6 +23,8 @@ const Home = () => {
       <Deployment/>
       <PricingPlans/>
       <FAQ/>
+      <CTA/>
+      <Footer/>
  
     </>
   );
